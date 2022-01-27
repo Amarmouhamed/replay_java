@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Amar\\Desktop\\M2BI\\Performences des systemes decisionnels\\java\\ssj2\\ssj-3.3.1.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Amar\\Desktop\\M2BI\\Performences des systemes decisionnels\\java\\ssj\\lib\\interpreter-1.6.8.jar"
+        ]
+    }
+}
